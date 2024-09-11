@@ -2,6 +2,7 @@
 	"BuildId": "33043543",
 	"Modules": 
 	{
+		"GASP": "UnrealEditor-GASP.dll",
 		"GameAnimationSample": "UnrealEditor-GameAnimationSample.dll"
 	}
 }
