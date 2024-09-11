@@ -1,0 +1,9 @@
+[submodule "Plugins/SpectralTraverseSystem"]
+	path = Plugins/SpectralTraverseSystem
+	url = https://github.com/Spectral-Labs/SpectralTS.git
+[submodule "Plugins/SpectralCore"]
+	path = Plugins/SpectralCore
+	url = https://github.com/Spectral-Labs/SpectralCore.git
+[submodule "Plugins/SpectralAdvancedCable"]
+	path = Plugins/SpectralAdvancedCable
+	url = https://github.com/Spectral-Labs/SpectralAC.git
